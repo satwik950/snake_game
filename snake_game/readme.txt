@@ -1,0 +1,1 @@
+go to src > com > company and you will find the class files required open the folder in your respective ide and run the main class file to play the snake game
